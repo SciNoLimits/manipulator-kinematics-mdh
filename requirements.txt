@@ -1,0 +1,15 @@
+# Numerical and symbolic mathematics
+numpy
+scipy
+sympy
+
+# Visualization
+matplotlib
+
+# Robotics Toolbox
+roboticstoolbox-python
+spatialmath-python
+
+# Jupyter Notebook
+jupyter
+ipykernel
